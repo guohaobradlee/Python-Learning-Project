@@ -1,4 +1,4 @@
-# Self-learning Projcet
+# Python Learning Projcet
 Hello there!\
 This repository holds my programming projects done after graduated from University.
 
